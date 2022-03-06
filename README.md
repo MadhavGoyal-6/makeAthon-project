@@ -1,4 +1,4 @@
-# makethon-project
+# makeAthon-project
 
 ## Project setup
 ```
